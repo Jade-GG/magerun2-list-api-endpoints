@@ -21,7 +21,7 @@
     }
   ],
   "require": {
-    "php": "~7.4.0|~8.0.0|~8.1.0",
+    "php": "~7.4.0|~8.0.0|~8.1.0|~8.2.0|~8.3.0",
     "magento/module-webapi": "~100.3.6-p2|~100.4.0|~100.4.1|~100.4.2|~100.4.3",
     "magento/framework": "~102.0.7-p2|~103.0.0|~103.0.1|~103.0.2|~103.0.3|~103.0.4"
   },
@@ -31,7 +31,7 @@
     "captainhook/captainhook": "^5.10.8",
     "captainhook/plugin-composer": "^5.3.3",
     "infection/infection": "0.22.0|^0.26.6",
-    "n98/magerun2": "^4.5.0|^4.9.1|^5.0.1",
+    "n98/magerun2": "^4.5.0|^4.9.1|^5.0.1|^6.0.1|7.0.1",
     "phpstan/extension-installer": "^1.1",
     "phpstan/phpstan": "^1.7.2",
     "phpstan/phpstan-strict-rules": "^1.1",
